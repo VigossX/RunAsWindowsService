@@ -5,8 +5,7 @@ I don't know whether there will be some disadvantages.
 Luckily, I have solved another problem with this solution coincidentally, that is making a hangfire web application be always running.
 
 
-The script below can install 'ShipMaintenanceService' on windows service, and start it.
-You may replace it with your own projectname and project dll path.
+The script below can install 'YourServiceName' on windows service, and start it.
 
 ```
 @echo off
